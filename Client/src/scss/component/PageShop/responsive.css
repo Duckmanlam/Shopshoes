@@ -1,0 +1,29 @@
+/* Moblie & Table */
+@media (max-width: 1023px) {
+    .Shop {
+        overflow: hidden;
+        /* padding: 0 4px; */
+    }
+    .Shop__heading,
+    .Shop__categories,
+    .Shop__wrapper {
+        display: none;
+    }
+    .Shop__categories-list {
+        display: flex;
+        justify-content: space-between;
+    }
+    .Shop__product {
+        margin-top: 46px;
+    }
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+
+}
+
+/* Moblie */
+@media (max-width: 740px) {
+    
+}

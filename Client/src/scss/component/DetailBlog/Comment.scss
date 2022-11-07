@@ -1,0 +1,124 @@
+.Comment {
+  margin-top: 80px;
+  max-width: 752.01px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  &_header {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    margin-bottom: 25px;
+  }
+  &_border {
+    margin-bottom: 25px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(0, 0, 0, 0.09);
+  }
+  &_avatar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 500;
+    &_ul {
+      margin-bottom: 25px;
+      display: flex;
+      align-items: center;
+      &_li {
+        &_img {
+          margin-right: 15px;
+        }
+        &_p {
+          font-size: 14px;
+          line-height: 18px;
+          color: #100d22;
+        }
+        &_p2 {
+          font-size: 12px;
+          line-height: 15px;
+          color: #878690;
+        }
+      }
+    }
+    &_reply {
+      font-size: 14px;
+      line-height: 32px;
+      text-decoration-line: underline;
+      color: #100d22;
+    }
+  }
+  &_p {
+    font-size: 14px;
+    line-height: 32px;
+    font-weight: 400;
+  }
+  &_reply {
+    &_header {
+      font-weight: 600;
+      font-size: 18px;
+      line-height: 23px;
+      text-align: center;
+      color: #100d22;
+    }
+    &_p {
+      font-size: 14px;
+      line-height: 18px;
+    }
+    &_inp {
+      border-color: #df3295;
+      width: 752.01px;
+      height: 123px;
+      border-radius: 5px;
+    }
+    &_ul {
+      display: flex;
+      &_li {
+        &_p {
+          font-size: 14px;
+          line-height: 18px;
+        }
+        &_input2 {
+          margin-right: 28px;
+          border-color: #df3295;
+          border-radius: 5px;
+          width: 361px;
+          height: 40px;
+        }
+      }
+    }
+  }
+  &_btn {
+    text-align: center;
+    &_1 {
+      margin-top: 5%;
+      width: 220px;
+      height: 50px;
+      background: #100d22;
+      border-radius: 32px;
+      color: #fff;
+      display: inline-block;
+    }
+  }
+}
+
+// pc
+@media only screen and (min-width: 64em) {
+  .hide-on-pc {
+    display: none;
+  }
+}
+/*mobile*/
+@media only screen and (max-width: 46.25em) {
+  .flex-mobile {
+    flex-wrap: wrap;
+    max-width: 400px;
+  }
+  .size-mobile {
+    max-width: 340px;
+  }
+  .wrap-mobile {
+    flex-wrap: wrap;
+  }
+  .btn-mobile {
+    width: 340px;
+  }
+}

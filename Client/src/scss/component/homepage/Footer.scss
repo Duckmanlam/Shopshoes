@@ -1,0 +1,90 @@
+.footer {
+  margin-top: 80px;
+  &_end {
+    margin-top: 40px;
+    text-align: center;
+    color: #878690;
+  }
+  &_container {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    display: flex;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    &_content {
+      font-weight: 500;
+      font-size: 14px;
+      margin-top: 2%;
+      margin-left: 8%;
+      justify-content: space-between;
+      line-height: 40px;
+      &_header1 {
+        font-family: "Anton", serif;
+        font-style: normal;
+        font-weight: 900;
+        font-size: 24px;
+      }
+      &_header {
+        color: #100d22;
+        font-weight: 500;
+        font-size: 14px;
+      }
+
+      &_text1 {
+        font-weight: 500;
+        font-size: 14px;
+        color: #100d22;
+        line-height: 24px;
+      }
+      &_text {
+        color: #878690;
+        text-decoration: none;
+        &_btn1 {
+          background: #f6f6f6;
+          border-radius: 100px;
+          color: #878690;
+          border: none;
+          &_btn2 {
+            color: #fff;
+            background: #100d22;
+            border-radius: 100px;
+            font-weight: 500;
+            font-size: 12px;
+            line-height: 24px;
+            margin-left: 40px;
+            padding: 7px 25px 7px 25px;
+          }
+        }
+      }
+      &_text2 {
+        color: #100d22;
+      }
+      &_list {
+        list-style: none;
+        display: flex;
+        &_1 {
+          margin-right: 5%;
+        }
+      }
+    }
+  }
+}
+// pc
+@media only screen and (min-width: 64em) {
+  .hide-on-pc {
+    display: none;
+  }
+}
+//table
+@media only screen and (min-width: 46.25rem) and (max-width: 64rem) {
+  .hide-on-pc {
+    display: none;
+  }
+}
+/*mobile*/
+@media only screen and (max-width: 46.25em) {
+  .hide-on-mobile {
+    display: none;
+  }
+  .flex-mobile {
+    flex-wrap: wrap;
+  }
+}

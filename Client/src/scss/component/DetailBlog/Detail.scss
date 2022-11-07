@@ -1,0 +1,123 @@
+.Detail {
+  margin-top: 80px;
+  &__sports {
+    max-width: 63%;
+    font-family: "Plus Jakarta Sans", sans-serif;
+  }
+
+  &__container {
+    width: 90%;
+
+    &-img {
+      width: 100%;
+    }
+
+    &-info {
+      margin-top: 25px;
+      display: flex;
+      align-items: baseline;
+
+      &-name {
+        padding-right: 16px;
+        font-size: 1rem;
+        color: #878690;
+      }
+
+      &-date {
+        padding-left: 16px;
+        border-left: 1px solid #ccc;
+        font-size: 0.8rem;
+        color: #878690;
+      }
+    }
+  }
+
+  &__content {
+    width: 750px;
+    max-width: 100%;
+    margin-top: 25px;
+    margin-top: 25px;
+    &-header {
+      font-size: 1.6rem;
+      margin-bottom: 12px;
+    }
+
+    &-user {
+      margin-top: 12px;
+      display: flex;
+      align-items: center;
+
+      &-name {
+        padding-left: 16px;
+        font-size: 0.8rem;
+      }
+    }
+
+    &-desc {
+      margin-top: 26px;
+
+      &-text {
+        font-size: 0.9rem;
+        line-height: 25px;
+        color: #333;
+        margin: 0;
+      }
+
+      &-content {
+        font-size: 0.9rem;
+        font-style: italic;
+        font-weight: 550;
+        line-height: 25px;
+        padding: 20px 16px;
+        position: relative;
+      }
+
+      &-content::before {
+        content: "";
+        height: 70%;
+        top: 50%;
+        left: 0;
+        transform: translateY(-50%);
+        border-left: 1px solid #000;
+        position: absolute;
+      }
+    }
+
+    &-shoes {
+      padding-left: 0;
+      list-style: none;
+      display: flex;
+
+      &-item {
+        padding-right: 12px;
+
+        &-img {
+          width: 100%;
+        }
+      }
+    }
+
+    &-socials {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding-left: 0;
+      list-style: none;
+      margin-top: 25px;
+      &-item {
+        padding-right: 12px;
+        &-share {
+          color: #878690;
+        }
+        &-link {
+          display: block;
+          text-decoration: none;
+        }
+        &-link:hover {
+          opacity: 0.8;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+}

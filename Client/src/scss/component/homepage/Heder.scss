@@ -1,0 +1,69 @@
+.Heder {
+  display: flex;
+  margin: 34px 4% 0 8%;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 500;
+  &_logo {
+    font-family: "Anton", serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+  }
+  &_list {
+    display: flex;
+    gap: 40px;
+    font-weight: 600;
+    font-size: 14px;
+    &_item {
+      text-decoration: none;
+      color: black;
+    }
+  }
+  &_list2 {
+    display: flex;
+    align-items: center;
+    color: #000;
+    margin-left: 7%;
+    font-weight: 600;
+    &_line {
+      border: 1px solid rgba(255, 255, 255, 0.38);
+      transform: rotate(90deg);
+    }
+    &_a1 {
+      text-decoration-line: underline;
+      color: #000000;
+    }
+    &_img1 {
+      margin-right: -27%;
+    }
+    &_a {
+      text-decoration: none;
+      color: #000;
+      margin-right: 40px;
+    }
+    &_img {
+      margin-left: 24px;
+    }
+  }
+}
+// pc
+@media only screen and (min-width: 64em) {
+  .hide-on-pc {
+    display: none;
+  }
+}
+/*mobile*/
+@media only screen and (max-width: 46.25em) {
+  .hide-on-mobile {
+    display: none;
+  }
+  .icon_mobile {
+    display: none;
+  }
+  .hide-on-pc {
+    margin-left: 50%;
+  }
+}

@@ -1,0 +1,47 @@
+@import "../../global.scss";
+@import "../../var.scss";
+.Latest {
+  font-family: "Plus Jakarta Sans", sans-serif;
+
+  margin-top: 50px;
+  text-align: center;
+  h3 {
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 62px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-family: anton;
+  }
+  h5 {
+    font-family: auto;
+    color: #878690;
+  }
+  p {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    color: $mau-xam;
+  }
+  .container {
+    font-family: "Plus Jakarta Sans", sans-serif;
+
+    margin-top: 10px;
+    display: flex;
+    text-align: left;
+    .Lastest__user-big {
+      display: flex;
+      margin-top: 10px;
+      .Lastest__user-info {
+        padding-left: 10px;
+      }
+    }
+  }
+}
+@media (max-width: 740px) {
+  .Latest .container {
+    display: contents;
+    
+  }
+  .container{
+    margin: 8px;
+  }
+}

@@ -1,0 +1,79 @@
+.Content {
+    background-color: rgb(235, 236, 237);
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    font-family: "$font-plus";
+
+    &_from {
+        margin: 20px 0 30px 20px;
+
+        &_content {
+            margin-top: 25px;
+        }
+
+        &_btn {
+            text-align: center;
+
+            &_1 {
+                background-color: rgb(4, 18, 14);
+                border-radius: 6px;
+                color: #fff;
+                border: none;
+                width: 20%;
+                height: 40px;
+                margin: 30px 0 30px 0;
+            }
+        }
+    }
+}
+
+.Header {
+    margin: 80px 0 30px 10%;
+    font-size: 38px;
+    font-family: "$font-plus";
+}
+
+input,
+.sl {
+    margin-top: 10px;
+    width: 98%;
+    height: 35px;
+}
+
+//-----------------------------------------table
+.Product {
+    margin-top: 80px;
+    background-color: rgb(235, 236, 237);
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    font-family: "$font-plus";
+}
+
+.header {
+    margin: 80px 0 30px 10%;
+    font-size: 35px;
+    font-family: "$font-plus";
+}
+
+thead,
+td {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td {
+    height: 65px;
+}
+
+tr {
+    text-align: center;
+}

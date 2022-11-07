@@ -1,0 +1,43 @@
+.Favourite {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  margin-top: 100px;
+  .container {
+    text-align: center;
+    .Favourite__title {
+      text-align: center;
+      font-size: 50px;
+      font-weight: 400;
+      line-height: 62px;
+      font-family: "Anton", sans-serif;
+    }
+    .Favourite__item {
+      width: 80%;
+      .item{
+        .item__card{
+          display: flex;
+          justify-content: space-between;
+        }
+        
+       p{
+        float: left;
+       }   
+        
+      }
+      margin-top: 64px;
+      .Favourite__content {
+        display: flex;
+        justify-content: space-between;
+      }
+      text-align: center;
+      display: flex;
+      justify-content: space-between;
+      img {
+        width: 267px;
+      }
+    }
+  }
+}
+@media (max-width: 740px) {
+  .Favourite .container .Favourite__item {
+    display: contents;}
+}

@@ -1,0 +1,13 @@
+.Third-main {
+  font-family: "Plus Jakarta Sans", sans-serif;
+
+  margin-top: 5rem;
+  .container {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    .Third-main__image {
+      width: 10%;
+    }
+  }
+}

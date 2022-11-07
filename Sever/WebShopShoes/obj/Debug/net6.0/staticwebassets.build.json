@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "+d+KUi4CecWF0qH0w99qjIor079/KCEf1hi9LiOgf1E=",
+  "Source": "WebShopShoes",
+  "BasePath": "_content/WebShopShoes",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebShopShoes\\wwwroot",
+      "Source": "WebShopShoes",
+      "ContentRoot": "D:\\workspace\\K27-ITVLUTeam\\Project API\\Project figma\\ShopShoes2\\WebShopShoes\\wwwroot\\",
+      "BasePath": "_content/WebShopShoes",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

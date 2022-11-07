@@ -1,0 +1,29 @@
+.Post {
+  width: 430px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  &_header {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  &_index {
+    &_produc {
+      margin-top: 10px;
+      font-weight: 500;
+      font-size: 14px;
+      line-height: 24px;
+    }
+    &_p {
+      margin-top: 0px;
+      font-size: 12px;
+      line-height: 15px;
+      color: #878690;
+    }
+  }
+  &_border4 {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(0, 0, 0, 0.09);
+    margin: 10px 0 10px 0;
+  }
+}

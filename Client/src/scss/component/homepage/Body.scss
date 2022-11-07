@@ -1,0 +1,54 @@
+.Body {
+  margin-top: 75px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  .container {
+    max-width: 1140px;
+    width: 80%;
+    margin: auto;
+
+    .about-us {
+      &__title {
+        text-align: center;
+        font-family: "Anton", sans-serif;
+
+        font-size: 50px;
+        font-weight: 400;
+        line-height: 62px;
+        letter-spacing: 0em;
+      }
+      &__content {
+        display: flex;
+        justify-content: space-between;
+        text-align: center;
+        .about-us__item {
+          margin-top: 4rem;
+          width: 25%;
+          &-title {
+            font-family: "Plus Jakarta Sans", sans-serif;
+
+            font-size: 16px;
+            font-weight: 700;
+            line-height: 20px;
+            letter-spacing: 0em;
+            text-align: center;
+          }
+          &-icon {
+            width: 58px;
+            height: 58px;
+          }
+
+          &-description {
+            color: #878690;
+            font-family: "Plus Jakarta Sans", sans-serif;
+
+            font-size: 14px;
+            font-weight: 500;
+            line-height: 24px;
+            letter-spacing: 0em;
+            text-align: center;
+          }
+        }
+      }
+    }
+  }
+}

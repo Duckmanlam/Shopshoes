@@ -1,0 +1,212 @@
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.csproj.AssemblyReference.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.AssemblyInfoInputs.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.AssemblyInfo.cs
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.csproj.CoreCompileInputs.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.MvcApplicationPartsAssemblyInfo.cs
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.MvcApplicationPartsAssemblyInfo.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\appsettings.Development.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\appsettings.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\WebShopShoes.exe
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\WebShopShoes.deps.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\WebShopShoes.runtimeconfig.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\WebShopShoes.pdb
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Humanizer.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\staticwebassets.build.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\staticwebassets.development.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\scopedcss\bundle\WebShopShoes.styles.css
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.csproj.CopyComplete
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\refint\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.pdb
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.genruntimeconfig.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes\WebShopShoes\WebShopShoes\obj\Debug\net6.0\ref\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\appsettings.Development.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\appsettings.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\WebShopShoes.exe
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\WebShopShoes.deps.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\WebShopShoes.runtimeconfig.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\WebShopShoes.pdb
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Humanizer.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.csproj.AssemblyReference.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.AssemblyInfoInputs.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.AssemblyInfo.cs
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.csproj.CoreCompileInputs.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.MvcApplicationPartsAssemblyInfo.cs
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.MvcApplicationPartsAssemblyInfo.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\staticwebassets.build.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\staticwebassets.development.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\scopedcss\bundle\WebShopShoes.styles.css
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.csproj.CopyComplete
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\refint\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.pdb
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\WebShopShoes.genruntimeconfig.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\New folder (2)\WebShopShoes\WebShopShoes\obj\Debug\net6.0\ref\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\appsettings.Development.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\appsettings.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\WebShopShoes.exe
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\WebShopShoes.deps.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\WebShopShoes.runtimeconfig.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\WebShopShoes.pdb
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Humanizer.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.csproj.AssemblyReference.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.AssemblyInfoInputs.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.AssemblyInfo.cs
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.csproj.CoreCompileInputs.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.MvcApplicationPartsAssemblyInfo.cs
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.MvcApplicationPartsAssemblyInfo.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\staticwebassets.build.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\staticwebassets.development.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\scopedcss\bundle\WebShopShoes.styles.css
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.csproj.CopyComplete
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\refint\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.pdb
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\WebShopShoes.genruntimeconfig.cache
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\obj\Debug\net6.0\ref\WebShopShoes.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\BCrypt.Net-Next.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Scrutor.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\WebShopShoes.staticwebassets.runtime.json
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\FluentValidation.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\IKVM.Java.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\IKVM.Reflection.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\IKVM.Runtime.JNI.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\IKVM.Runtime.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\System.Data.Odbc.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\System.Threading.AccessControl.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\linux-x64\native\libikvm-native.so
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win-x64\native\ikvm-native.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win-x86\native\ikvm-native.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\freebsd\lib\net6.0\System.Data.Odbc.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\illumos\lib\net6.0\System.Data.Odbc.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\ios\lib\net6.0\System.Data.Odbc.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\linux\lib\net6.0\System.Data.Odbc.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\osx\lib\net6.0\System.Data.Odbc.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\solaris\lib\net6.0\System.Data.Odbc.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\tvos\lib\net6.0\System.Data.Odbc.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.Odbc.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Threading.AccessControl.dll
+D:\workspace\K27-ITVLUTeam\Project API\Project figma\ShopShoes2\WebShopShoes\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

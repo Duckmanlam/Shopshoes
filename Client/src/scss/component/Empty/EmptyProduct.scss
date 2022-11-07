@@ -1,0 +1,64 @@
+.EmptyProduct {
+  margin-top: 3%;
+  &_btn {
+    width: 240px;
+    height: 50px;
+    background: #100d22;
+    border-radius: 32px;
+    color: #fff;
+  }
+  &_h2 {
+    font-family: "Anton", serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    text-align: center;
+    color: #100d22;
+  }
+  &_line {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgba(0, 0, 0, 0.09);
+    margin: 15px 0 20px 0;
+    width: 1250px;
+    margin-left: 8%;
+  }
+  &_ul {
+    display: flex;
+    &_a {
+      font-family: "Plus Jakarta Sans", sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 14px;
+      line-height: 24px;
+      color: #100d22;
+      text-decoration: none;
+      margin-left: 150px;
+    }
+  }
+}
+// pc
+@media only screen and (min-width: 64em) {
+  .pc {
+    margin: 84px 636px 0px 618px;
+  }
+  .left {
+    margin: 40px 636px 0px 618px;
+  }
+}
+//table
+@media only screen and (min-width: 46.25rem) and (max-width: 64rem) {
+}
+/*mobile*/
+@media only screen and (max-width: 46.25em) {
+  .left {
+    flex-wrap: wrap;
+    margin: 40px 0px 0px 20%;
+  }
+  .a-mobile {
+    display: none;
+  }
+  .pc {
+    margin: 40px 0px 0px 20%;
+  }
+}
