@@ -6,51 +6,78 @@ import "../../scss/component/homepage/responsive.css";
 import "../../scss/component/homepage/Banner.css";
 import Rectangle from "../../assets/img/Rectangle.png";
 import { Link } from "react-router-dom";
+import { useRecoilState } from "recoil";
+import { addToCart, cartState } from "../../features/cart/cartState";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css'
 
 export default function Banner() {
   const [data, setData] = React.useState([]);
-  const [loading, setLoading] = React.useState(false);
+  const [cart, setCart] = useRecoilState(cartState)
+  const [size, setSize] = React.useState('40')
+
   const getApi = async () => {
-    setLoading(false)
     axios
       .get("https://localhost:7292/api/HomePage/Banner?productId=1")
       .then((res) => setData(res.data));
-    setLoading(true)
   };
   React.useEffect(() => {
     getApi();
   }, []);
+
+  const handleAddToCart = (product) => {
+
+    const newCart = addToCart(cart, product, size);
+    setCart(newCart)
+
+    toast.success('Successfully added')
+  }
+
+  const handleSize = (e) => {
+    setSize(prev => [...prev, e.target.value])
+  }
+
   return (
     <div>
-      {loading ? <div className="Banner__background">
+      <ToastContainer />
+      <div className="Banner__background">
         <img className="Banner__background-img" src={Rectangle} alt="" />
-      </div> : <h1>loading .........</h1>
-      }
+      </div>
+
       <div className="grid wide">
         {data.map((item, index) => (
           <div className="row Banner-show" key={index}>
             <div className="col l-6 m-12 Banner-zoom">
-              <h2 className="Banner__title">{item.productDetails.type}</h2>
+              <h2 className="Banner__title">{item.type}</h2>
               <h1 className="Banner__heading">
-                {item.productDetails.productName}
+                {item.productName}
               </h1>
-              <p className="Banner__text">{item.productDetails.description}</p>
+              <p className="Banner__text">{item.description}</p>
               <div className="Banner__group">
-                <select className="Banner__select">
-                  <option className="Banner__select-item" value="1">
-                    GET
-                  </option>
+                <p className="Banner__group-text">QNT</p>
+                <select
+                  className="Banner__select"
+                >
+                  <option value="1">1</option>
                 </select>
-                <select className="Banner__select">
-                  <option className="Banner__select-item" value="1">
-                    SIZE
-                  </option>
+
+                <p className="Banner__group-text">SIZE</p>
+                <select
+                  className="Banner__select"
+                  onChange={handleSize}
+                >
+                  <option value="40">40</option>
                 </select>
-                <span className="Banner__select-price">$173</span>
+                <span className="Banner__select-price">${item.price}</span>
               </div>
               <div className="Banner__button">
-                <button className="btn btn--primary">Add to Bag</button>
-                <Link className="Banner__button-link" to="#">
+                <button
+                  className="btn btn--primary"
+                  onClick={() => handleAddToCart(item)}
+                >
+                  Add to Bag
+                </button>
+                <Link className="Banner__button-link" to={`/DetailWriteReview/${item.id}`}>
                   See Details
                 </Link>
               </div>

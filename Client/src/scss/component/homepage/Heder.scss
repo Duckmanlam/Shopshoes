@@ -6,48 +6,124 @@
   align-items: center;
   font-size: 14px;
   font-weight: 500;
+
   &_logo {
     font-family: "Anton", serif;
     font-style: normal;
     font-weight: 900;
     font-size: 24px;
+    color: #000;
   }
+
   &_list {
     display: flex;
     gap: 40px;
     font-weight: 600;
     font-size: 14px;
+
     &_item {
       text-decoration: none;
       color: black;
+      position: relative;
+
+      span {
+        background: crimson;
+        color: #fff;
+        border-radius: 50%;
+        width: 20px;
+        height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: sans-serif;
+        position: absolute;
+        top: -2px;
+        right: -6px;
+      }
     }
   }
+
   &_list2 {
     display: flex;
     align-items: center;
     color: #000;
     margin-left: 7%;
     font-weight: 600;
+    position: relative;
+
+    &-link {
+      display: flex;
+      justify-content: space-between;
+    }
+
     &_line {
       border: 1px solid rgba(255, 255, 255, 0.38);
       transform: rotate(90deg);
     }
+
+    &-search {
+      position: absolute;
+      top: 46px;
+      width: 208px;
+      left: 0;
+
+      &-box {
+        display: flex;
+        align-items: center;
+        border: 1px solid #333;
+        padding: 4px;
+        border-radius: 50px;
+        width: 252px;
+        height: 41px;
+
+        input {
+          outline: none;
+          border: none;
+          margin-top: 0;
+          font-size: 14px;
+          flex: 1;
+          height: 100%;
+          background: transparent;
+          color: #000;
+        }
+
+        a {
+          width: 67px;
+          height: 37px;
+          background-color: #000;
+          border-radius: 50px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          color: #fafafa;
+          font-size: 14px;
+        }
+      }
+    }
+
     &_a1 {
       text-decoration-line: underline;
       color: #000000;
     }
+
     &_img1 {
-      margin-right: -27%;
+      padding-right: 12px;
     }
+
     &_a {
       text-decoration: none;
       color: #000;
       margin-right: 40px;
     }
+
     &_img {
       margin-left: 24px;
     }
   }
+}
+
+a {
+  text-decoration: none;
 }
 // pc
 @media only screen and (min-width: 64em) {
@@ -55,14 +131,17 @@
     display: none;
   }
 }
+
 /*mobile*/
 @media only screen and (max-width: 46.25em) {
   .hide-on-mobile {
     display: none;
   }
+
   .icon_mobile {
     display: none;
   }
+
   .hide-on-pc {
     margin-left: 50%;
   }

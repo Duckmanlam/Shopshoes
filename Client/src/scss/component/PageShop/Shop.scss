@@ -2,10 +2,10 @@
   margin-top: 46px;
   font-weight: 600;
   padding-bottom: 26px;
-  font-family: "$font-plus";
+  font-family: sans-serif;
   &__heading {
     font-size: 24px;
-    font-weight: 800;
+    font-weight: 600;
     margin-bottom: 22px;
   }
 
@@ -44,7 +44,7 @@
       display: flex;
 
       &-name {
-        margin-right: 12px;
+        margin-left: auto;
         font-size: 12px;
         font-weight: 500;
       }
@@ -53,6 +53,12 @@
     &-wrapper {
       .Shop__product-item {
         margin-bottom: 12px;
+        transition: transform ease-in 0.1s;
+        will-change: transform;
+        &:hover {
+          transform: translateY(-1px);
+          box-shadow: 0 1px 20px 0 rgb(0 0 0 / 5%);
+        }
 
         &-img {
           width: 100%;
@@ -73,7 +79,7 @@
 
       &-name {
         font-size: 1.1rem;
-        font-weight: 800;
+        font-weight: 600;
         color: #333;
       }
 
@@ -83,4 +89,9 @@
       }
     }
   }
+}
+.abc {
+  border-radius: 20px;
+  font-weight: 600;
+  border: none;
 }

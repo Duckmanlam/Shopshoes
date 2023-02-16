@@ -10,46 +10,41 @@ export default function Footer() {
       <div className=" footer flex-mobile ">
         <div className="footer_container flex-mobile ">
           <div className="footer_container_content ">
-            <h2 className="footer_container_content_header1 ">Shoppes</h2>
+            <h2 className="Heder1_logo1">Shoppes</h2>
             <p className="footer_container_content_text1 ">Address</p>
-            <p>
-              <Link to="" className="footer_container_content_text">
-                2118 Thornridge Cir. Syracuse, Connecticut 35624
-              </Link>
-              </p>
+            <Link to="" className="footer_container_content_text">
+              2118 Thornridge Cir. Syracuse, Connecticut 35624
+            </Link>
+            <p className="footer_container_content_text1 ">Email</p>
+            <Link to="" className="footer_container_content_text">
+              Shoppes@example.com{" "}
+            </Link>
+            <p className="footer_container_content_text1 ">Phone Number</p>
+            <Link to="" className="footer_container_content_text">
+              +321 4356 2212{" "}
+            </Link>
           </div>
           <div className="footer_container_content ">
             <h3 className="footer_container_content_header">Menu</h3>
             <p>
-            <NavLink to="/">Home </NavLink>
+              <NavLink to="/">Home </NavLink>
             </p>
             <p>
-            <NavLink to="/AllProduct">Shop </NavLink>
+              <NavLink to="/PageShop">Shop </NavLink>
             </p>
             <p>
-              <Link to="" className="footer_container_content_text ">
-                Wishlist
-              </Link>
-            </p>
-            <p>
-              <Link to="" className="footer_container_content_text ">
-                Order Tracking
-              </Link>
-            </p>
-            <p>
-            <NavLink to="/Blog">Blog </NavLink>
+              <NavLink to="/Blog">Blog </NavLink>
             </p>
           </div>
           <div className="footer_container_content">
-            <h3 className="footer_container_content_header ">Quick Links</h3>
             <p>
-            <NavLink to="/login">Login </NavLink>
+              <NavLink to="/login">Login </NavLink>
             </p>
             <p>
-            <NavLink to="/a">Register </NavLink>
+              <NavLink to="/a">Register </NavLink>
             </p>
             <p>
-              <Link to="" className="footer_container_content_text ">
+              <Link to="/Carts" className="footer_container_content_text ">
                 My Cart
               </Link>
             </p>
@@ -59,12 +54,12 @@ export default function Footer() {
               Let's Stay in Touch
             </h3>
             <p className="footer_container_content_text ">
-              {/* <button className="footer_container_content_text_btn1">
-                Enter Your Email Address
-                <button className="footer_container_content_text_btn1_btn2">
-                  Subscribe
-                </button>
-              </button> */}
+              {/* btn footer */}
+              {/* <input
+                className="Content_from_content_input "
+                value="Enter Your Email Address"
+                type="text"
+              ><button></button></input> */}
             </p>
             <p className="footer_container_content_text2 ">Follow our Social</p>
             <div className="footer_container_content_list ">

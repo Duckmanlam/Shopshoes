@@ -1,37 +1,47 @@
 /* Moblie & Table */
-@media (max-width: 1023px) {
-
-}
+@media (max-width: 1023px) {}
 
 /* Tablet */
-@media (min-width: 740px) and (max-width: 1023px) {
-
-}
+@media (min-width: 740px) and (max-width: 1023px) {}
 
 /* Moblie */
 @media (max-width: 740px) {
     .Banner-zoom {
-        padding: 0 40px;
+        padding: 0 9px;
     }
+
     .Banner__heading {
-        font-size: 4.8rem;
+        font-size: 2.4rem;
     }
+
     .Banner__shoes {
         width: 100%;
     }
+
     .Banner-img {
         height: 217px;
+        top: 30px;
     }
+
     .Banner-img_shadow {
         display: none;
     }
+
     .Banner__list {
         margin-top: unset;
         padding-left: 18px;
     }
+
     .Banner__list-img {
         height: 95px;
     }
+
+    .Banner__button {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
     .Banner__button .btn {
         width: 130px;
         height: 47px;
@@ -44,25 +54,31 @@
         align-items: center;
         justify-content: center;
     }
+
     .statistical__data {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
+
     .statistical__amount {
         padding-bottom: 8px;
     }
+
     .statistical__text {
         padding-left: unset;
     }
+
     .Banner__background {
-        top: 664px;
+        top: 500px;
     }
+
     .Banner__logo,
     .Banner__brand {
         display: none;
     }
+
     .Banner__background-img {
         height: 342px;
     }

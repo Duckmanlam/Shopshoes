@@ -18,7 +18,7 @@ export default function PopularAuthor() {
       {data.map((item, index) => (
         <div key={index} className="Author_index">
           <div className="Author_index_img">
-            <img src={item.account.avatar} />
+            <img src={item.account.avatar} alt="" />
           </div>
           <div className="Author_index_des">
             <p className="Author_index_des_name">Ralph Edwards</p>

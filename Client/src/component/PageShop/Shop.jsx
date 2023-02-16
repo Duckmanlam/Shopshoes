@@ -1,15 +1,14 @@
 import React from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
 import "../../scss/component/PageShop/responsive.css";
-import Arrow from "../../assets/font/Arrow.js";
-import RangePrice from "./RangePrice";
 import "../../scss/component/PageShop/Shop.scss";
 import axiosApi from "../../api/axios";
 export default function Shop() {
+  const [sort, setSort] = React.useState("");
   const [data, setData] = React.useState([]);
-  const param = useParams()
-  const navigate = useNavigate()
-
+  const param = useParams();
+  const navigate = useNavigate();
+  const [page, setPage] = React.useState(1);
 
   React.useEffect(() => {
     if (param.search) {
@@ -22,20 +21,20 @@ export default function Shop() {
     } else {
       const getApi = async () => {
         axiosApi
-          .get("Products/AllProductInUser")
+          .get(`Products/AllProductInUser?sortBy=${sort}&page=${page}`)
           .then((res) => setData(res));
       };
       getApi();
     }
-  }, [param.search, navigate]);
+  }, [param.search, navigate, sort, page]);
 
   return (
     <div className="Shop">
       <div className="grid wide">
         <div className="row">
           <div className="col l-3 m-12 c-12">
-            <h1 className="Shop__heading">All Products (531)</h1>
-            <p className="Shop__categories">Categories</p>
+            <h1 className="Shop__heading">All Products </h1>
+            {/* <p className="Shop__categories">Categories</p>
             <ul className="Shop__categories-list">
               <li className="Shop__categories-item">
                 <Link to="#" className="Shop__categories-link">
@@ -53,18 +52,27 @@ export default function Shop() {
                 </Link>
               </li>
             </ul>
-            <RangePrice />
+            <RangePrice /> */}
           </div>
           <div className="col l-9 m-12 c-12 Shop__product">
             <div className="Shop__product-sort">
-              <span className="Shop__product-sort-name">Sort by</span>
-              <Arrow />
+              <select
+                className="Shop__product-sort-name abc"
+                onChange={(e) => setSort(e.target.value)}
+              >
+                {" "}
+                <option value="">SortBy</option>
+                <option value="Price High - Low">Price High - Low</option>
+                <option value="Price Low - High">Price Low - High</option>
+                <option value="Newest">Newest</option>
+                <option value="Featured">Featured</option>
+              </select>
             </div>
             <div className="row Shop__product-wrapper">
               {data.map((item, index) => {
                 return (
                   <Link
-                    to={`/DetailWriteReview/${item.productName}`}
+                    to={`/DetailWriteReview/${item.id}`}
                     key={index}
                     className="col l-4 m-6 c-12 Shop__product-item"
                   >
@@ -89,6 +97,12 @@ export default function Shop() {
               })}
             </div>
           </div>
+          <button className="pageOne P1" onClick={() => setPage(1)}>
+            page 1
+          </button>
+          <button className="pageOne" onClick={() => setPage(2)}>
+            page 2
+          </button>
         </div>
       </div>
     </div>

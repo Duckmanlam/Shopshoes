@@ -2,7 +2,7 @@
 @media (max-width: 1023px) {
     .Shop {
         overflow: hidden;
-        /* padding: 0 4px; */
+        padding: 0 4px;
     }
     .Shop__heading,
     .Shop__categories,

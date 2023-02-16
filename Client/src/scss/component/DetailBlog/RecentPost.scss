@@ -1,8 +1,6 @@
 .recent {
-  //margin-left: auto;
-  // margin-right: 150px;
   width: 430px;
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: "$font-plus";
   &_header {
     &_p {
       font-weight: 600;
@@ -35,7 +33,6 @@
       border-bottom-width: 1px;
       border-bottom-color: rgba(0, 0, 0, 0.09);
     }
-    margin-top: 15%;
     &_p {
       margin-top: 10px;
       font-weight: 600;

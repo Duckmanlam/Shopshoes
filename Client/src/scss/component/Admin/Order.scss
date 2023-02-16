@@ -1,36 +1,11 @@
-.header{
-    display: flex;
-    width: 80%;
-    justify-content: space-between;
-    h1{
-        width: 20%;
-    }
-    
-}
-.item{
-    width: 80%;
-    margin: auto;
-    display: flex;
-    margin-top: 60px;
-    h3{
-        width: 20%;
-    }
-    
-}
-.OrderId{
-    color: brown;
-}
-.Order_status{
-    
-    text-align: center;
-    
-}
-.action{
-    width: 5%;
-    display: flex;
-
-
-}
-.btn{
-    width: 10px;
-}
+.title {
+    align-items: center;
+    font-size: 32px;
+    margin: 80px 0 40px 0;
+    font-family: "$font-plus";
+    font-weight: 700;
+  }
+  .apiImg {
+    width: 100px;
+  }
+  

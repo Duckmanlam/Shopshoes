@@ -11,6 +11,10 @@
 
     &-container {
       max-width: unset;
+      a {
+        text-decoration: none;
+        color: #000;
+      }
     }
 
     &-design {
@@ -19,6 +23,7 @@
 
     &-img {
       width: 334px;
+      margin-bottom: 50px;
     }
 
     &-header {
@@ -26,7 +31,7 @@
       font-size: 0.8rem;
       font-style: italic;
       font-weight: 200;
-      color: #878690;
+      color: #000;
     }
 
     &-title {
@@ -41,7 +46,8 @@
     }
 
     &-account {
-      margin-top: 40px;
+      margin-top: 90px;
+      margin-bottom: 50px;
       padding: 16px 0;
       display: flex;
       align-items: center;
@@ -61,28 +67,6 @@
         font-size: 0.8rem;
         color: #878690;
       }
-    }
-  }
-
-  &__pagination {
-    list-style: none;
-    display: flex;
-    padding-left: 0;
-    &-item {
-      &--active {
-        color: #fff;
-        background-color: #000;
-      }
-      background-color: #fff;
-      width: 34px;
-      height: 34px;
-      border: 1px solid #ccc;
-      border-radius: 10px;
-      cursor: pointer;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-right: 12px;
     }
   }
 }

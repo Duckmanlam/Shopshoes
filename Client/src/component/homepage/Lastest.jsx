@@ -2,6 +2,7 @@ import React from "react";
 import "../../scss/component/homepage/Latest.scss";
 import axios from "axios";
 import "../../scss/global.scss";
+import { Link } from "react-router-dom";
 
 export default function Lastest() {
   const [data, setData] = React.useState([]);
@@ -17,28 +18,32 @@ export default function Lastest() {
 
   return (
     <div className="Latest">
-      <h3>Latest From Blogs</h3>
+      <h3 className="Second__title">Latest From Blogs</h3>
       <h5>
         Velit officia consequat duis enim velit mollit. Exercitation veniam co
       </h5>
       <div className="container">
         {data.map((item, index) => {
           return (
-            <div className="Latest__item" key={index}>
+            <Link
+              to={`/DetailBlog/${item.id}`}
+              className="Latest__item"
+              key={index}
+            >
               <img src={item.productImage} alt="" />
               <h6>{item.posts}</h6>
-              <p>{item.productDetails}</p>
+              <p className="p1">{item.productDetails}</p>
 
               <div className="Lastest__user">
                 <div className="Lastest__user-big">
                   <img src={item.account.avatar} alt="" />
                   <div className="Lastest__user-info">
                     <h6>{item.account.userName}</h6>
-                    <p>8/2/19</p>
+                    <p className="Lastest__user-info-name">8/2/19</p>
                   </div>
                 </div>
               </div>
-            </div>
+            </Link>
           );
         })}
       </div>

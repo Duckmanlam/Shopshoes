@@ -1,7 +1,9 @@
 import React from "react";
 import axios from "axios";
-import '../scss/component/Res/Res.scss';
+import "../scss/component/Res/Res.scss";
 import { useNavigate } from "react-router-dom";
+import { Link } from "react-router-dom";
+
 export const Res = () => {
   const [userName, setUserName] = React.useState("");
   const [password, setPassword] = React.useState("");
@@ -90,10 +92,16 @@ export const Res = () => {
               <i></i>
             </div>
             <div class="links">
-      
-      
-    </div>
-            <input className="submit" type="submit" value="Register" onClick={() => handleRes()} />
+              <Link className="link" to="/login">
+                Login
+              </Link>
+            </div>
+            <input
+              className="submit"
+              type="submit"
+              value="Register"
+              onClick={() => handleRes()}
+            />
           </div>
         </div>
       </div>

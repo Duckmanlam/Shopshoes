@@ -8,20 +8,16 @@
   &_container {
     border: 1px solid rgba(0, 0, 0, 0.1);
     display: flex;
+    left: 50%;
     font-family: "Plus Jakarta Sans", sans-serif;
     &_content {
       font-weight: 500;
       font-size: 14px;
       margin-top: 2%;
-      margin-left: 8%;
+      margin-left: 11%;
       justify-content: space-between;
       line-height: 40px;
-      &_header1 {
-        font-family: "Anton", serif;
-        font-style: normal;
-        font-weight: 900;
-        font-size: 24px;
-      }
+
       &_header {
         color: #100d22;
         font-weight: 500;
@@ -67,6 +63,23 @@
     }
   }
 }
+.Heder1 {
+  display: flex;
+  font-family: "Plus Jakarta Sans", sans-serif;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 14px;
+  font-weight: 500;
+
+  &_logo1 {
+    margin: 0 0 10px -70%;
+    font-family: "Anton", serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 24px;
+    color: #000;
+  }
+}
 // pc
 @media only screen and (min-width: 64em) {
   .hide-on-pc {
@@ -86,5 +99,6 @@
   }
   .flex-mobile {
     flex-wrap: wrap;
+    padding-left: 14px;
   }
 }

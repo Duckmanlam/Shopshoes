@@ -1,9 +1,11 @@
 .fifth {
   font-family: "Plus Jakarta Sans", sans-serif;
-  margin-top: 50px;
+  margin-top: 120px;
+  margin-bottom: 60px;
   .container {
     text-align: center;
     .fifth__title {
+      margin-bottom: 20px;
       font-size: 50px;
       font-weight: 400;
       line-height: 62px;
@@ -15,6 +17,7 @@
       font-weight: 500;
       line-height: 24px;
       letter-spacing: 0em;
+      margin-bottom: 40px;
     }
     .fifth__item {
       display: flex;
@@ -23,7 +26,7 @@
   }
 }
 @media (max-width: 740px) {
-  .fifth .container .fifth__item{
+  .fifth .container .fifth__item {
     display: contents;
   }
 }

@@ -1,79 +1,225 @@
 .Content {
-    background-color: rgb(235, 236, 237);
-    width: 80%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    font-family: "$font-plus";
+  background-color: rgb(235, 236, 237);
+  width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  font-family: "$font-plus";
 
-    &_from {
-        margin: 20px 0 30px 20px;
+  &_from {
+    margin: 40px 0 30px 20px;
 
-        &_content {
-            margin-top: 25px;
-        }
-
-        &_btn {
-            text-align: center;
-
-            &_1 {
-                background-color: rgb(4, 18, 14);
-                border-radius: 6px;
-                color: #fff;
-                border: none;
-                width: 20%;
-                height: 40px;
-                margin: 30px 0 30px 0;
-            }
-        }
+    &_content {
+      margin-top: 30px;
+      &_btn {
+        margin-top: 10px;
+        width: 98%;
+        height: 35px;
+      }
     }
-}
 
+    &_btn {
+      text-align: center;
+
+      &_1 {
+        background-color: rgb(4, 18, 14);
+        border-radius: 20px;
+        color: #fff;
+        border: none;
+        width: 20%;
+        height: 40px;
+        margin: 30px 0 30px 0;
+      }
+    }
+  }
+}
+.addProduct:hover {
+  background-color: rgb(51, 49, 49);
+}
+.clickAdd .content {
+  display: block;
+}
+// // .content {
+// //   display: none;
+// // }
+// .add:hover {
+//   background-color: rgb(133, 212, 165);
+// }
 .Header {
-    margin: 80px 0 30px 10%;
-    font-size: 38px;
-    font-family: "$font-plus";
+  align-items: center;
+  font-size: 32px;
+  margin: 80px 0 40px 0;
+  font-family: "$font-plus";
+  font-weight: 700;
 }
 
 input,
 .sl {
-    margin-top: 10px;
-    width: 98%;
-    height: 35px;
+  margin-top: 10px;
+  width: 98%;
+  height: 35px;
 }
 
 //-----------------------------------------table
 .Product {
-    margin-top: 80px;
-    background-color: rgb(235, 236, 237);
-    width: 80%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    font-family: "$font-plus";
+  margin-top: 80px;
+  background-color: rgb(235, 236, 237);
+  width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  font-family: "$font-plus";
 }
 
 .header {
-    margin: 80px 0 30px 10%;
-    font-size: 35px;
-    font-family: "$font-plus";
+  align-items: center;
+  font-size: 32px;
+  margin: 80px 0 40px 0;
+  font-family: "$font-plus";
+  font-weight: 700;
 }
-
+.sta {
+  padding-top: 24px;
+}
 thead,
 td {
-    border-top: 1px solid #ccc;
-    border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
 }
 
 table {
-    border-collapse: collapse;
-    width: 100%;
+  border-collapse: collapse;
+  width: 100%;
 }
 
 td {
-    height: 65px;
+  height: 65px;
 }
 
 tr {
-    text-align: center;
+  text-align: center;
+}
+
+.table {
+  &_header {
+    font-size: 20px;
+    font-weight: 600;
+  }
+}
+.Admin {
+  font-family: "$font-plus";
+
+  &_update {
+    color: #fff;
+    background-color: green;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    font-weight: 600;
+  }
+  &_remove {
+    font-weight: 600;
+    color: #fff;
+    background-color: red;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+  }
+}
+.Header_form {
+  &_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    &_li {
+      float: left;
+      margin-left: 5%;
+      &_a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+.li a:hover {
+  background-color: rgb(19, 177, 82);
+}
+.Admin {
+  margin-bottom: 30%;
+}
+
+.update:hover {
+  background-color: rgb(116, 208, 116);
+}
+.remove:hover {
+  background-color: rgb(206, 96, 96);
+}
+
+.modal {
+  margin: -400px 0px 0px 20%;
+  height: 200px;
+  background-color: #fff;
+  border: 1px solid #888;
+  justify-content: space-between;
+  text-align: center;
+  border-radius: 25px;
+  display: block;
+  padding: 20px;
+  width: 40%;
+  position: absolute;
+
+  &_p {
+    padding: 40px 10px 10px 10px;
+    font-size: 30px;
+  }
+}
+.hoverProduct:hover .hoverModal {
+  background-color: #fff;
+}
+.Admin {
+  &_remove {
+    margin-right: 20px;
+  }
+  &_not {
+    background-color: rgb(76, 74, 74);
+    font-weight: 600;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+  }
+}
+.Admin_remove:hover {
+  background-color: rgb(216, 118, 118);
+}
+.Admin_not:hover {
+  background-color: rgb(126, 124, 124);
+}
+
+.pageOne {
+  background-color: rgb(72, 74, 72);
+  color: #fff;
+  padding: 12px;
+  width: 70px;
+  border-radius: 13px;
+  border: none;
+  margin-left: 13px;
+  margin-top: 5px;
+}
+.pageOne:hover {
+  background-color: rgb(127, 134, 127);
+  color: #333;
+}
+.page1 {
+  margin-left: 8%;
+}
+.P1 {
+  margin-left: 25%;
 }

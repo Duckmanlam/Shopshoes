@@ -1,22 +1,24 @@
 import React from "react";
 import "../../scss/grid.css";
 import "../../scss/component/Blog/BlogProduct.scss";
-import "../../scss/component/homepage/responsive.css";
+import "../../scss/component/Blog/responsive.css";
 import axios from "axios";
 import RecentPost from "../DetailBlog/RecentPost";
 import PopularAuthor from "../DetailBlog/PopularAuthor";
 import PopularPost from "../DetailBlog/PopularPost";
+import { Link } from "react-router-dom";
 
 export default function BlogProduct() {
   const [data, setData] = React.useState([]);
+  const [pageBlog, setPageBlog] = React.useState(1);
   const getApi = async () => {
     axios
-      .get("https://localhost:7292/api/Blog/GetAllBlog?CategoryId=4&page=1")
+      .get(`https://localhost:7292/api/Blog/GetAllBlog?page=${pageBlog}`)
       .then((res) => setData(res.data));
   };
   React.useEffect(() => {
     getApi();
-  }, []);
+  }, [pageBlog]);
 
   return (
     <div className="BlogProduct">
@@ -30,7 +32,7 @@ export default function BlogProduct() {
                     return (
                       <div className="BlogProduct__content" key={item.id}>
                         <div className="col l-6 m-12 sm-gutter BlogProduct__content-container">
-                          <div>
+                          <Link to={`/DetailBlog/${item.id}`}>
                             <img
                               className="BlogProduct__content-img"
                               src={item.productImage}
@@ -62,7 +64,7 @@ export default function BlogProduct() {
                                 </p>
                               </div>
                             </div>
-                          </div>
+                          </Link>
                         </div>
                       </div>
                     );
@@ -75,20 +77,15 @@ export default function BlogProduct() {
                 <PopularPost />
               </div>
             </div>
-            <ul className="BlogProduct__pagination">
-              <li className="BlogProduct__pagination-item BlogProduct__pagination-item--active">
-                <a className="BlogProduct__pagination-item-link">1</a>
-              </li>
-              <li className="BlogProduct__pagination-item">
-                <a className="BlogProduct__pagination-item-link">2</a>
-              </li>
-              <li className="BlogProduct__pagination-item">
-                <a className="BlogProduct__pagination-item-link">3</a>
-              </li>
-            </ul>
           </div>
         </div>
       </div>
+      <button className="pageOne page1" onClick={() => setPageBlog(1)}>
+        Page 1
+      </button>
+      <button className="pageOne" onClick={() => setPageBlog(2)}>
+        Page 2
+      </button>
     </div>
   );
 }

@@ -28,7 +28,7 @@
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    -webkit-text-fill-color: transparent;
+    text-align: left;
 }
 
 .Banner__heading {
@@ -49,16 +49,19 @@
 
 .Banner__group {
     margin: 16px 0;
+    display: flex;
+    align-items: center;
+}
+
+.Banner__group-text {
+    padding-right: 12px;
 }
 
 .Banner__select {
-    margin: 12px 12px 0 0;
-    font-family: "Anton", sans-serif;
-    height: 30px;
-    font-weight: 200;
-    font-size: 1.2rem;
-    border-radius: 10px;
-    min-width: 60px;
+    margin-right: 10px;
+    padding: 2px 4px;
+    font-size: 16px;
+    font-family: 'Anton';
 }
 
 .Banner__select-price {
